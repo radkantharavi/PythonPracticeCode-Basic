@@ -1,2 +1,2 @@
 # ASUDataScience
-Basis Python practice codes- ASU August 2021
+Python practice exercises- ASU August 2021
